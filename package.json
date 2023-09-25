@@ -1,0 +1,27 @@
+{
+  "name": "stackblitz-starters-ewypvu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^18.2.22",
+    "@types/react-dom": "^18.2.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "redux": "^4.2.1",
+    "@testing-library/dom": "8.13.0",
+    "@testing-library/jest-dom": "5.16.4",
+    "@testing-library/react": "13.1.1",
+    "@testing-library/user-event": "14.1.1",
+    "@types/jest": "^27.0.0",
+    "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
